@@ -21,6 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
+## String
+|  |
+| ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

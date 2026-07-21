@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jamunatg2006-sys/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -65,6 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/jamunatg2006-sys/DSA/tree/master/1260-shift-2d-grid) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

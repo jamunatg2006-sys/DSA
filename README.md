@@ -75,6 +75,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1890-the-latest-login-in-2020](https://github.com/jamunatg2006-sys/DSA/tree/master/1890-the-latest-login-in-2020) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

@@ -1,0 +1,23 @@
+class Solution {
+public:
+    string smallestPalindrome(string s) {
+        vector<int> cnt(26, 0);
+
+        for (char c : s)
+            cnt[c - 'a']++;
+
+        string first = "", mid = "";
+
+        for (int i = 0; i < 26; i++) {
+            first.append(cnt[i] / 2, 'a' + i);
+
+            if (cnt[i] % 2 == 1)
+                mid = char('a' + i);
+        }
+
+        string second = first;
+        reverse(second.begin(), second.end());
+
+        return first + mid + second;
+    }
+};

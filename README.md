@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jamunatg2006-sys/DSA/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jamunatg2006-sys/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Interactive
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/jamunatg2006-sys/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

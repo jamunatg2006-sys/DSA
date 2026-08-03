@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/jamunatg2006-sys/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/jamunatg2006-sys/DSA/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jamunatg2006-sys/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jamunatg2006-sys/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jamunatg2006-sys/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -125,6 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jamunatg2006-sys/DSA/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jamunatg2006-sys/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

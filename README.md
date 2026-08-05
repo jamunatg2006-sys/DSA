@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jamunatg2006-sys/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3310-remove-methods-from-project](https://github.com/jamunatg2006-sys/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jamunatg2006-sys/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3310-remove-methods-from-project](https://github.com/jamunatg2006-sys/DSA/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +135,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jamunatg2006-sys/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/jamunatg2006-sys/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

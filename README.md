@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jamunatg2006-sys/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jamunatg2006-sys/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jamunatg2006-sys/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jamunatg2006-sys/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jamunatg2006-sys/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
 |  |
 | ------- |

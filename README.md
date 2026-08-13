@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jamunatg2006-sys/DSA/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jamunatg2006-sys/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/jamunatg2006-sys/DSA/tree/master/0877-stone-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jamunatg2006-sys/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/jamunatg2006-sys/DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/jamunatg2006-sys/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jamunatg2006-sys/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/jamunatg2006-sys/DSA/tree/master/3310-remove-methods-from-project) |
@@ -154,6 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/jamunatg2006-sys/DSA/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

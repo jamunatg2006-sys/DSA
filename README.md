@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/jamunatg2006-sys/DSA/tree/master/0511-game-play-analysis-i) |
 | [1890-the-latest-login-in-2020](https://github.com/jamunatg2006-sys/DSA/tree/master/1890-the-latest-login-in-2020) |
 ## Tree
 |  |

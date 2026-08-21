@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jamunatg2006-sys/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/jamunatg2006-sys/DSA/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/jamunatg2006-sys/DSA/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jamunatg2006-sys/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/jamunatg2006-sys/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/jamunatg2006-sys/DSA/tree/master/0620-not-boring-movies) |
 | [1890-the-latest-login-in-2020](https://github.com/jamunatg2006-sys/DSA/tree/master/1890-the-latest-login-in-2020) |

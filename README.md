@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jamunatg2006-sys/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jamunatg2006-sys/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jamunatg2006-sys/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Combinatorics
 |  |
 | ------- |

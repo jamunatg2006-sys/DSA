@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/jamunatg2006-sys/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/jamunatg2006-sys/DSA/tree/master/0620-not-boring-movies) |
 | [1084-sales-analysis-iii](https://github.com/jamunatg2006-sys/DSA/tree/master/1084-sales-analysis-iii) |
+| [1211-queries-quality-and-percentage](https://github.com/jamunatg2006-sys/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1890-the-latest-login-in-2020](https://github.com/jamunatg2006-sys/DSA/tree/master/1890-the-latest-login-in-2020) |
 ## Tree
 |  |

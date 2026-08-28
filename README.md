@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jamunatg2006-sys/DSA/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/jamunatg2006-sys/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/jamunatg2006-sys/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jamunatg2006-sys/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jamunatg2006-sys/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jamunatg2006-sys/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/jamunatg2006-sys/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1927-sum-game](https://github.com/jamunatg2006-sys/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jamunatg2006-sys/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jamunatg2006-sys/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

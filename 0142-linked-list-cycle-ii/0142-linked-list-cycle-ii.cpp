@@ -36,6 +36,22 @@ public:
             slow=slow->next;
             fast=fast->next;
         }
+        return slow;//RETURNS THE START NODE OF THE CYCLE
+
+        //IF WE WANT TO REMOVE THE CYCLE
+        //EXTRA PART
+        slow=head;
+        ListNode *prev=NULL;
+        while(slow!=fast){
+            slow=slow->next;
+            
+            //main
+            prev=fast;
+
+            fast=fast->next;
+        }
+        prev->next=NULL;
+        //tail is poinnting to null
         return slow;
 
     }

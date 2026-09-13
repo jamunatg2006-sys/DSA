@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/jamunatg2006-sys/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/jamunatg2006-sys/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/jamunatg2006-sys/DSA/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/jamunatg2006-sys/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1084-sales-analysis-iii](https://github.com/jamunatg2006-sys/DSA/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/jamunatg2006-sys/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/jamunatg2006-sys/DSA/tree/master/1484-group-sold-products-by-the-date) |

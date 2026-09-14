@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/jamunatg2006-sys/DSA/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/jamunatg2006-sys/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/jamunatg2006-sys/DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jamunatg2006-sys/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jamunatg2006-sys/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/jamunatg2006-sys/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jamunatg2006-sys/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph Theory
 |  |

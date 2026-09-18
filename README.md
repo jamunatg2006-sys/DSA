@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/jamunatg2006-sys/DSA/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/jamunatg2006-sys/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/jamunatg2006-sys/DSA/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/jamunatg2006-sys/DSA/tree/master/0577-employee-bonus) |

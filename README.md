@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jamunatg2006-sys/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/jamunatg2006-sys/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/jamunatg2006-sys/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jamunatg2006-sys/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jamunatg2006-sys/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jamunatg2006-sys/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jamunatg2006-sys/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1927-sum-game](https://github.com/jamunatg2006-sys/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jamunatg2006-sys/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -248,10 +250,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jamunatg2006-sys/DSA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jamunatg2006-sys/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/jamunatg2006-sys/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jamunatg2006-sys/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 

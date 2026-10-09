@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jamunatg2006-sys/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/jamunatg2006-sys/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jamunatg2006-sys/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0704-binary-search) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jamunatg2006-sys/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jamunatg2006-sys/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jamunatg2006-sys/DSA/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/jamunatg2006-sys/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jamunatg2006-sys/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -259,6 +261,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jamunatg2006-sys/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jamunatg2006-sys/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
 STARTED IT VERY LATELY TO PUSH EVERY CODE TO GIT!!!! 
 
